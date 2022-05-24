@@ -98,7 +98,8 @@ df
 ## Cleaning the dataset:
 ![o2](https://user-images.githubusercontent.com/94980741/169943569-269720ec-48f6-4ab2-a7de-778924bad19d.png)
 
-![o3](http![o4](https://user-images.githubusercontent.com/94980741/169943608-82937543-3076-4672-9ef6-2a141a918c6f.png)
+![o3](https://user-images.githubusercontent.com/94980741/169946388-79db1eba-6d28-4ea9-84c5-f04d284b2ed7.png)
+
 
 ![o4](https://user-images.githubusercontent.com/94980741/169943637-1089b622-10cd-491d-a5ee-65958718ffbb.png)
 
@@ -112,7 +113,8 @@ df
 ![o8](https://user-images.githubusercontent.com/94980741/169943745-67bd1631-1782-4aea-855c-b97d2977041d.png)
 ![o9](![o10](https://user-images.githubusercontent.com/94980741/169943797-07495a19-e4e2-4af4-94bc-aaa9d0402909.png)
 ![o10](https://user-images.githubusercontent.com/94980741/169943831-e4344e9f-fb4b-4a3b-a8e4-306ea94d0512.png)
-![o11](![o12](https://user-images.githubusercontent.com/94980741/169943899-b3befc15-6197-415c-958d-cd7a498a85ed.png)
+![o11](https://user-images.githubusercontent.com/94980741/169946410-839fa8c7-3b6a-4162-878e-9fad6471e4e7.png)
+
 ![o12](https://user-images.githubusercontent.com/94980741/169943924-c9de2460-a96d-4432-a663-c61349b22855.png)
 
 
