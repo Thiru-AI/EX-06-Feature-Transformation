@@ -20,10 +20,10 @@ Save the data to the file
 
 # CODE
 ```
-'''
+
 Developed By: Thirugnanamoorthi.G
 Register No: 212221230117
-'''
+
 ```
 # titanic_dataset.csv
 ```
@@ -97,7 +97,9 @@ df
 
 ## Cleaning the dataset:
 ![o2](https://user-images.githubusercontent.com/94980741/169943569-269720ec-48f6-4ab2-a7de-778924bad19d.png)
+
 ![o3](http![o4](https://user-images.githubusercontent.com/94980741/169943608-82937543-3076-4672-9ef6-2a141a918c6f.png)
+
 ![o4](https://user-images.githubusercontent.com/94980741/169943637-1089b622-10cd-491d-a5ee-65958718ffbb.png)
 
 
